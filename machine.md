@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thingking
+title:Validating
 ---
 <div id="machina-config"
      data-machine-settings="{{ site.machine | jsonify | escape }}"

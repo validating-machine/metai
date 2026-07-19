@@ -1,1 +1,1 @@
-### Thingking-Machine (metai)
+###Validating-Machine (metai)
